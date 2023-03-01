@@ -1,8 +1,9 @@
 [web_servers]
-ubuntu@192.168.2.106 apache_package=apache2 php_package=libapache2-mod-php
+ubuntu@192.168.2.106
+centos@192.168.2.111
 
 [db_servers]
-ubuntu1@192.168.2.107 apache_package=apache2 php_package=libapache2-mod-php
+ubuntu1@192.168.2.107
 
 [file_servers]
-ubuntu3@192.168.2.108 apache_package=apache2 php_package=libapache2-mod-php
+ubuntu3@192.168.2.108
